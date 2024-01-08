@@ -10,5 +10,5 @@ My open-source projects:
 
 My closed-source projects:
 
-- ~~[fontbox](https://fontbox.t61.link/) that contains free for personal use fonts~~ died bcause i havent server for this project rn
-- [Raya-Prime](https://rayaprime.t61.link/) - bot in Aminoapps to prevent spam and for fun
+- ~~*[fontbox](https://fontbox.t61.link/) that contains free for personal use fonts*~~ died bcause i havent server for this project rn
+- [Raya-Prime](https://rayaprime.t61.link/) - bot for fun, stopping spam and comfy moderation

@@ -7,6 +7,7 @@ My open-source projects:
 
 - [o!SFC](https://github.com/imperialwool/osu-songs-folder-cleaner) to clear empty maps from songs folder in osu!
 - [telelibonphp](https://github.com/imperialwool/telelibonphp) to make easy bots on PHP (old and never will be updated)
+- [AltAmino](https://github.com/imperialwool/altamino) (alternative server for Aminoapps)
 
 My closed-source projects:
 

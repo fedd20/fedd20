@@ -1,5 +1,5 @@
 <h3 align="center">Welcome to my page!</h3>
-My nickname is imperialwool. My personal website is [o!SFC](https://github.com/imperialwool/osu-songs-folder-cleaner). 
+My nickname is imperialwool.
 
 I like to make projects that can be useful or can give bunch of new ideas what we can do new or convinient.
 

@@ -1,5 +1,5 @@
 <h3 align="center">Welcome to my page!</h1>
-My nickname is imperialwool or toaster-61 (last nick is newer, will try to move to this nick).
+My nickname is imperialwool. My personal website is [iwool.dev](https://iwool.dev).
 
 I like to make projects that can be useful or can give bunch of new ideas what we can do new or convinient.
 

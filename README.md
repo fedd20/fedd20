@@ -2,15 +2,9 @@
 
 My nickname is imperialwool. Also I have [personal website](https://iwool.dev/).
 
-I like to make projects that can be useful or can give bunch of new ideas what we can do new or convinient.
+I like to make projects that can be useful or can give bunch of new ideas what we can do new or convinient. Or just for fun.
 
-My open-source projects:
+Know Python, JavaScript and TypeScript. Can work with MongoDB, MySQL, PostgreSQL, a lil bit ScyllaDB.
 
-- [o!SFC](https://github.com/imperialwool/osu-songs-folder-cleaner) to clear empty maps from songs folder in osu!
-- [telelibonphp](https://github.com/imperialwool/telelibonphp) to make easy bots on PHP (old and never will be updated)
-- [AltAmino](https://github.com/imperialwool/altamino) (alternative server for Aminoapps)
-
-My closed-source projects:
-
-- ~~*[fontbox](https://fontbox.t61.link/) that contains free for personal use fonts*~~ died bcause i havent server for this project rn
-- [Raya-Prime](https://rayaprime.t61.link/) - bot for fun, stopping spam and comfy moderation
+![How active I am in GitHub](https://github-readme-stats.vercel.app/api?username=imperialwool&show_icons=true&theme=tokyonight)
+![Top langs that I used on GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=imperialwool&show_icons=true&theme=tokyonight&layout=compact)

@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  My nickname is imperialwool. Also I have [personal website](https://iwool.dev/).
+  My nickname is imperialwool.
   
   I like to make projects that can be useful or can give bunch of new ideas what we can do new or convinient. Or just for fun.
   

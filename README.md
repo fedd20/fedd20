@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  My nickname is imperialwool.
+  My name is Joseph Fedora, and my nickname is fedd20.
   
   I like to make projects that can be useful or can give bunch of new ideas what we can do new or convinient. Or just for fun.
   

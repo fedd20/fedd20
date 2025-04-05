@@ -56,9 +56,8 @@
 
 
 
-<!--<div align="center">
+<div align="center">
 	<h1>Current projects</h2>
 
-  [![altamino/api](https://github-readme-stats.vercel.app/api/pin/?username=altamino&repo=api&show_owner=true&theme=dark)](https://github.com/altamino/api)
-  [![imperialwool/rayaprime-docs](https://github-readme-stats.vercel.app/api/pin/?username=imperialwool&repo=rayaprime-docs&show_owner=true&theme=dark&description_lines_count=1)](https://github.com/imperialwool/rayaprime-docs)
-</div>-->
+  [![altamino/api](https://github-readme-stats.vercel.app/api/pin/?username=fedd20&repo=checkhost-cli&show_owner=true&theme=dark)](https://github.com/fedd20/checkhost-cli)
+</div>
